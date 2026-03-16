@@ -44,7 +44,7 @@
 | **TTS** | Edge-TTS | latest | 텍스트 → 음성 합성 |
 
 ### Additional
-- **Language**: Python 3.8+
+- **Language**: Python 3.11+
 - **Communication**: WebSocket, REST API
 - **Vision**: OpenCV (카메라 프레임 처리)
 - **Async**: Threading, Asyncio
