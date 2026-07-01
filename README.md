@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
 ![Whisper](https://img.shields.io/badge/Whisper-STT-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Edge](https://img.shields.io/badge/Edge-TTS-yellow.svg)
 
 **음성 대화, 감정 분석, 실시간 응답이 가능한 지능형 반려로봇**
 
