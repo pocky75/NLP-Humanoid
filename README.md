@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
 ![Whisper](https://img.shields.io/badge/Whisper-STT-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
