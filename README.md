@@ -87,4 +87,10 @@ python companion.robot.py
 ```
 <img width="668" height="155" alt="스크린샷 2026-07-01 162504" src="https://github.com/user-attachments/assets/1740f8ee-833a-443d-9fee-d41b0a3bb704" />
 
+# 실행화면
+<img width="709" height="1339" alt="스크린샷 2025-12-29 104934" src="https://github.com/user-attachments/assets/57f41339-9eab-4650-912c-aafafbeefe2a" />
+
+
+
+https://github.com/user-attachments/assets/e955b6d2-11ab-4f62-a93a-81bf78fd9518
 
