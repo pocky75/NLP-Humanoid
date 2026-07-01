@@ -72,6 +72,12 @@ graph TD
 ```
 git clone https://github.com/pocky75/NLP-Humanoid.git
 ```
+# 시리얼 포트 지정
+```
+python test.py
+```
+<img width="281" height="38" alt="스크린샷 2026-07-01 163120" src="https://github.com/user-attachments/assets/b3b2e9b0-dba3-47fe-996c-4c496dde8285" />
+
 # 프로그램 실행
 ```
 python companion.robot.py
