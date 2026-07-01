@@ -75,4 +75,6 @@ git clone https://github.com/pocky75/NLP-Humanoid.git
 # 프로그램 실행
 ```
 python companion.robot.py
+<img width="668" height="155" alt="image" src="https://github.com/user-attachments/assets/64afce48-43a0-466c-b524-03849d7b5768" />
+
 ```
