@@ -90,7 +90,7 @@ python companion.robot.py
 # 실행화면
 <img width="709" height="1339" alt="스크린샷 2025-12-29 104934" src="https://github.com/user-attachments/assets/57f41339-9eab-4650-912c-aafafbeefe2a" />
 
-연결 성공 로그
+# 연결 성공 로그
 
 
 
@@ -99,6 +99,6 @@ python companion.robot.py
 
 <img width="778" height="205" alt="image" src="https://github.com/user-attachments/assets/85117ba8-328b-4c96-a4fd-6f2dc8c4f423" />
 
-
+# 시연영상
 https://github.com/user-attachments/assets/e955b6d2-11ab-4f62-a93a-81bf78fd9518
 
