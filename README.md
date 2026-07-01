@@ -67,3 +67,12 @@ graph TD
     H --> K[Edge-TTS]
     K --> L[음성 출력]
     J --> M[로봇 동작]
+```
+# 저장소 클론해서 로컬로 가져오기
+```
+git clone https://github.com/pocky75/NLP-Humanoid.git
+```
+# 프로그램 실행
+```
+python companion.robot.py
+```
