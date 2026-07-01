@@ -100,6 +100,6 @@ python companion.robot.py
 <img width="778" height="205" alt="image" src="https://github.com/user-attachments/assets/85117ba8-328b-4c96-a4fd-6f2dc8c4f423" />
 
 # 시연영상
-```
+
 https://github.com/user-attachments/assets/e955b6d2-11ab-4f62-a93a-81bf78fd9518
-```
+
