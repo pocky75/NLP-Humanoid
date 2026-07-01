@@ -76,5 +76,6 @@ git clone https://github.com/pocky75/NLP-Humanoid.git
 ```
 python companion.robot.py
 ```
-![Uploading image.png…]()
+<img width="668" height="155" alt="스크린샷 2026-07-01 162504" src="https://github.com/user-attachments/assets/1740f8ee-833a-443d-9fee-d41b0a3bb704" />
+
 
