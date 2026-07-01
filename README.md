@@ -72,6 +72,9 @@ graph TD
 ```
 git clone https://github.com/pocky75/NLP-Humanoid.git
 ```
+# OpenAI API키 넣기
+<img width="179" height="30" alt="image" src="https://github.com/user-attachments/assets/b806c44e-8af7-4911-b998-5ebbfc7a44f8" />
+
 # 시리얼 포트 지정
 ```
 python test.py
