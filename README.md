@@ -98,15 +98,10 @@ subgraph Output["🔊 출력 계층 (Output Layer)"]
     
     K --> N[로봇 제어<br/>Serial/GPIO]
     N --> O[서보 모터]
-end
-
-style Input fill:#2d2d2d,stroke:#fff,stroke-width:2px,color:#fff
-style Core fill:#1e3a8a,stroke:#fff,stroke-width:2px,color:#fff
-style Output fill:#064e3b,stroke:#fff,stroke-width:2px,color:#fff
 ```
 ```
 
-### 🔄 데이터 흐름
+### 데이터 흐름
 
 1. **입력 수집**: PyAudio로 실시간 음성 스트림, OpenCV로 카메라 프레임을 동시에 캡처
 2. **전처리**: Whisper로 음성을 텍스트로 변환, GPT-4o Vision으로 이미지에서 감정/제스처 추출
@@ -116,7 +111,7 @@ style Output fill:#064e3b,stroke:#fff,stroke-width:2px,color:#fff
    - 감정 정보 → 상태 저장
    - 동작 명령 → 로봇 하드웨어 제어
 
-### 📦 주요 컴포넌트
+### 주요 컴포넌트
 
 | 계층 | 컴포넌트 | 기술 | 역할 |
 |------|---------|------|------|
@@ -129,7 +124,7 @@ style Output fill:#064e3b,stroke:#fff,stroke-width:2px,color:#fff
 | **출력** | 음성 합성 | `Edge-TTS` | 텍스트를 자연스러운 음성으로 변환 |
 | **출력** | 로봇 제어 | `Serial/GPIO` | JSON 명령을 하드웨어 신호로 변환 |
 
-### ⚡ 핵심 설계 원칙
+### 핵심 설계 원칙
 
 - **비동기 처리**: STT와 Vision 분석을 병렬로 실행하여 응답 지연 최소화
 - **모듈화**: 각 계층이 독립적으로 동작하여 확장성 확보
