@@ -110,6 +110,14 @@ graph TD
 - **상태 유지**: GPT의 Stateless 한계를 대화 기록으로 보완
 - **멀티모달**: 음성, 영상, 텍스트를 통합 처리하여 자연스러운 상호작용 구현
 
+## 핵심 코드
+
+- Whisper STT
+<img width="488" height="356" alt="image" src="https://github.com/user-attachments/assets/c7928ad3-278c-4834-8d10-86a5c9066213" />
+
+- Edge TTs
+<img width="365" height="109" alt="image" src="https://github.com/user-attachments/assets/394a595d-f013-412c-b16b-c623b0926c44" />
+
 # 저장소 클론해서 로컬로 가져오기
 ```
 git clone https://github.com/pocky75/NLP-Humanoid.git
