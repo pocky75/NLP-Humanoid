@@ -99,7 +99,7 @@ subgraph Output["🔊 출력 계층 (Output Layer)"]
     K --> N[로봇 제어<br/>Serial/GPIO]
     N --> O[서보 모터]
 ```
-```
+
 
 ### 데이터 흐름
 
@@ -130,7 +130,7 @@ subgraph Output["🔊 출력 계층 (Output Layer)"]
 - **모듈화**: 각 계층이 독립적으로 동작하여 확장성 확보
 - **상태 유지**: GPT의 Stateless 한계를 대화 기록으로 보완
 - **멀티모달**: 음성, 영상, 텍스트를 통합 처리하여 자연스러운 상호작용 구현
-```
+
 # 저장소 클론해서 로컬로 가져오기
 ```
 git clone https://github.com/pocky75/NLP-Humanoid.git
