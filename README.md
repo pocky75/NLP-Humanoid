@@ -79,27 +79,6 @@ graph TD
     K --> L[음성 출력]
     J --> M[로봇 동작]
 ```
-```
-subgraph Core["🧠 핵심 처리 계층 (Core Layer)"]
-    B --> E[텍스트 데이터]
-    D --> F[시각 컨텍스트]
-    E --> G{GPT-4o-mini<br/>중앙 제어기}
-    F --> G
-    H[(대화 기록<br/>Memory)] -.-> G
-end
-
-subgraph Output["🔊 출력 계층 (Output Layer)"]
-    G --> I[응답 텍스트]
-    G --> J[감정 정보]
-    G --> K[동작 명령<br/>JSON]
-    
-    I --> L[Edge-TTS<br/>음성 합성]
-    L --> M[스피커 출력]
-    
-    K --> N[로봇 제어<br/>Serial/GPIO]
-    N --> O[서보 모터]
-```
-
 
 ### 🔄 데이터 흐름
 
