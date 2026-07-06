@@ -101,7 +101,7 @@ subgraph Output["🔊 출력 계층 (Output Layer)"]
 ```
 
 
-### 데이터 흐름
+### 🔄 데이터 흐름
 
 1. **입력 수집**: PyAudio로 실시간 음성 스트림, OpenCV로 카메라 프레임을 동시에 캡처
 2. **전처리**: Whisper로 음성을 텍스트로 변환, GPT-4o Vision으로 이미지에서 감정/제스처 추출
