@@ -115,7 +115,7 @@ graph TD
 - Whisper STT
 <img width="488" height="356" alt="image" src="https://github.com/user-attachments/assets/c7928ad3-278c-4834-8d10-86a5c9066213" />
 
-- Edge TTs
+- Edge TTS
 <img width="365" height="109" alt="image" src="https://github.com/user-attachments/assets/394a595d-f013-412c-b16b-c623b0926c44" />
 
 # 저장소 클론해서 로컬로 가져오기
